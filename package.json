@@ -4,7 +4,7 @@
   "description": "Abstraction for exponential and custom retry strategies for failed operations.",
   "keywords": "retry, exponential backoff, auto-retry, multiple attempts, custom retry",
   "license": "MIT",
-  "version": "0.13.1",
+  "version": "0.13.2",
   "homepage": "https://github.com/tim-kos/node-retry",
   "repository": {
     "type": "git",
